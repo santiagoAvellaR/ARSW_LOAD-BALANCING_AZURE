@@ -195,4 +195,6 @@ newman run ARSW_LOAD-BALANCING_AZURE.postman_collection.json -e [ARSW_LOAD-BALAN
 
 
 
+### Diagrama de Despliegue
+![](./images/image.png)
 
